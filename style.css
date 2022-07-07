@@ -84,6 +84,15 @@ h2 {
     font-size: 45px;
 }
 
+h3 {
+    font-size: 35px;
+    color: #FF5959;
+}
+
+h4 {
+    font-size: 24px;
+}
+
 .other-amount {
     width: 50%;
     height: 30px;
@@ -91,7 +100,6 @@ h2 {
     border: none;
     border-bottom: 1px solid #DADADA;
     margin-top: 60px;
-    ;
 }
 
 .donation-project {
@@ -130,4 +138,55 @@ h2 {
 .icon {
     height: 33px;
     width: 33px;
+}
+
+.get-update {
+    margin: 0 auto;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    justify-items: center; */
+}
+
+/* .updates {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
+.updates h2 {
+    font-size: 54px;
+}
+
+.support-us {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.support-us img {
+
+    height: 477px;
+}
+
+.contribute {
+    width: 482px;
+    margin: 10px;
+    text-align: justify;
+}
+
+/* .email {
+    position: absolute;
+    height: 200px;
+    width: 809;
+    background-color: #FFF4D6;
+
+} */
+
+footer {
+    background-color: #0B0D17;
+    height: 177px;
+    text-align: center;
+    justify-content: center;
+    color: #DADADA;
+    padding-top: 43px;
 }
