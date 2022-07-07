@@ -142,10 +142,10 @@ h4 {
 
 .get-update {
     margin: 0 auto;
-    /* display: flex;
+    display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    justify-items: center; */
+    justify-items: center;
 }
 
 /* .updates {
