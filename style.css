@@ -140,19 +140,12 @@ h4 {
     width: 33px;
 }
 
-.get-update {
-    margin: 0 auto;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    justify-items: center; */
-}
-
-/* .updates {
+.get-update { margin: 0 auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-} */
+    align-items: center;
+}
+
 
 .updates h2 {
     font-size: 54px;
@@ -174,13 +167,13 @@ h4 {
     text-align: justify;
 }
 
-/* .email {
+.email {
     position: absolute;
     height: 200px;
     width: 809;
     background-color: #FFF4D6;
 
-} */
+}
 
 footer {
     background-color: #0B0D17;
